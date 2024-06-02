@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2020/04/23 14:32:54.000.438,=D:\Users\Family\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2020/04/23 14:32:54.000.141,=D:\Users\Family\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2020/04/23 14:50:39.000.240,D:\Users\Family\Desktop\Sentencia Switch\Unit1.dfm=D:\Users\Family\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2020/04/23 14:50:39.000.240,D:\Users\Family\Desktop\Sentencia Switch\Unit1.cpp=D:\Users\Family\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2020/04/23 14:50:39.000.240,D:\Users\Family\Desktop\Sentencia Switch\Unit1.h=D:\Users\Family\Documents\Embarcadero\Studio\Projects\Unit1.h</Transaction>
+    <Transaction>2020/04/23 14:50:41.000.740,D:\Users\Family\Desktop\Sentencia Switch\Project1PCH1.h=D:\Users\Family\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2020/04/23 14:50:43.000.224,D:\Users\Family\Desktop\Sentencia Switch\Project1.cbproj=D:\Users\Family\Documents\Embarcadero\Studio\Projects\Project1.cbproj</Transaction>
+  </Transactions>
+</BorlandProject>
