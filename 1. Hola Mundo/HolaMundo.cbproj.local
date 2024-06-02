@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2017/09/19 20:51:31.000.953,=D:\Users\Oskar\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2017/09/19 20:51:37.000.836,=D:\Users\Oskar\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2017/09/19 21:35:13.000.166,=D:\Users\Oskar\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2017/09/19 21:35:19.000.112,=D:\Users\Oskar\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2017/09/19 22:20:28.000.916,D:\Users\Oskar\Documents\Embarcadero\Studio\Projects\Unit1.h=D:\Users\Oskar\Documents\Embarcadero\Studio\Projects\Hola Mundo\Frm_main.h</Transaction>
+    <Transaction>2017/09/19 22:20:28.000.916,D:\Users\Oskar\Documents\Embarcadero\Studio\Projects\Unit1.cpp=D:\Users\Oskar\Documents\Embarcadero\Studio\Projects\Hola Mundo\Frm_main.cpp</Transaction>
+    <Transaction>2017/09/19 22:20:28.000.916,D:\Users\Oskar\Documents\Embarcadero\Studio\Projects\Unit1.dfm=D:\Users\Oskar\Documents\Embarcadero\Studio\Projects\Hola Mundo\Frm_main.dfm</Transaction>
+    <Transaction>2017/09/19 22:20:39.000.983,D:\Users\Oskar\Documents\Embarcadero\Studio\Projects\Project1PCH1.h=D:\Users\Oskar\Documents\Embarcadero\Studio\Projects\Hola Mundo\HolaMundoPCH1.h</Transaction>
+    <Transaction>2017/09/19 22:20:47.000.385,D:\Users\Oskar\Documents\Embarcadero\Studio\Projects\Project1.cbproj=D:\Users\Oskar\Documents\Embarcadero\Studio\Projects\Hola Mundo\HolaMundo.cbproj</Transaction>
+  </Transactions>
+</BorlandProject>
