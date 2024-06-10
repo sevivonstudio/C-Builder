@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2020/08/06 10:38:56.000.843,=D:\Users\Mantenimiento\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2020/08/06 10:38:58.000.641,=D:\Users\Mantenimiento\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2020/08/06 11:05:09.000.576,D:\Users\Mantenimiento\Desktop\Tabla de Multiplicar\Unit1.cpp=D:\Users\Mantenimiento\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2020/08/06 11:05:09.000.576,D:\Users\Mantenimiento\Desktop\Tabla de Multiplicar\Unit1.dfm=D:\Users\Mantenimiento\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2020/08/06 11:05:09.000.576,D:\Users\Mantenimiento\Desktop\Tabla de Multiplicar\Unit1.h=D:\Users\Mantenimiento\Documents\Embarcadero\Studio\Projects\Unit1.h</Transaction>
+    <Transaction>2020/08/06 11:05:11.000.740,D:\Users\Mantenimiento\Desktop\Tabla de Multiplicar\Project1PCH1.h=D:\Users\Mantenimiento\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2020/08/06 11:05:13.000.935,D:\Users\Mantenimiento\Desktop\Tabla de Multiplicar\Project1.cbproj=D:\Users\Mantenimiento\Documents\Embarcadero\Studio\Projects\Project1.cbproj</Transaction>
+  </Transactions>
+</BorlandProject>
